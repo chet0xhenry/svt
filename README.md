@@ -46,9 +46,14 @@ Sprints every 3 laps with the winners qualifying for a 5 lap scratch
 ## Situation Setup
 Once a situation is selected riders will be (simi-randomaly) assigned a stragity that is valid for that situation type.  Not every rider will receive a stragity.  
 Those riders that are not assigned a stragity will support the current simulated situation.  Those duties include calling out lap numbers, keeping the pack together and keeping everyone safe.
+If the stragities are assigned in secrecly see if you can guess who is implemting what.
 
 ## Expanded Stragities
 The stragities above are simply listed because some situations implement the same stragity.  This section describes those in detail
+
+### Support
+Riding support for a simulation in not an walk in the park.  Call out lap numbers and sprints.  Keep the pack together by setting pace if approiate or helping rider that fall off.
+Also provide freindly competition for others trying to implement stragities.
 
 ### Early Break
 This break away should be at the very begging of the race.  If done correctly no one will take your seriously until you will the whole thing.
